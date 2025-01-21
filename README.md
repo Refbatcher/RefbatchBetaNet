@@ -6,7 +6,7 @@
 *Для нормальної класифікації на фото не повинно бути людей та інших речей, фон бажано однорідний.*
 *Рекомендовано використовувати фотографії у форматі .png та без фону*
 №№№Приклад
-![](https://i.ibb.co/wr5SVvB/1git.png)
-![](https://i.ibb.co/ckgP4FL/2git.png)
-![](https://imgur.com/a/8Lmt0IZ.png)
-![](https://imgur.com/a/sPOHRPm.png)
+![НЕ РЕКОМЕНДОВАНО](https://i.ibb.co/wr5SVvB/1git.png)
+![РЕКОМЕНДОВАНО](https://i.ibb.co/ckgP4FL/2git.png)
+![НЕ РЕКОМЕНДОВАНО](https://i.ibb.co/qnyLzC7/3git.png)
+![РЕКОМЕНДОВАНО](https://i.ibb.co/BNZmXwg/4git.png)
