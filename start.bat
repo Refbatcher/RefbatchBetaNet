@@ -5,5 +5,5 @@ pip install torch
 pip install pillow
 pip install torchvision
 pip install opencv-python
-pip install keras
+pip install tensorflow
 pause
